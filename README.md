@@ -40,7 +40,7 @@ https://zenodo.org/record/3569790#.Xf1FLnUzZnw
 
 # How To Use
 [Usage](https://raw.githubusercontent.com/peterhabib/SNPector/master/Updated_Figure(2).jpg)
-
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/Updated_Figure(2).jpg">
 **A)** Python3 compiler; 
 **B)** scan_dna.py: program main script that contain all functions; 
 **C)** -blaston / -blastoff: in order to initiate BLAST process to provide sequence alignment against the genome to locate 
