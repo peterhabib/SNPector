@@ -47,3 +47,31 @@ to extract all SNPs occur in this range of sequence regardless they are exist or
 **H)** -vis: produces different figures and plots; 
 **I)**  GivenSequence.fasta: Tte user-provided sequence in FASTA file format. Any of the previous parameters can be
 deactivated when replaced with -off.
+
+
+# Results Example
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/AnnotatedHeatMap_rs199637112.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/CounterPlot_rs2072454.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/DendoWithHeatMap.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/HistWithBoxPlot_rs7801956.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/LinearReg_rs199637112.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/Lollipop_rs7801956.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/MarginalPlotDprime_MAF_rs7801956.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/NumericalSemantics_rs17336437.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/Screenshot%20from%202019-10-29%2012-03-52.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/SeabornHeatMap.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/ThreeDimPlot_rs7801956.png">
+
+<img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/RESULTS/animated_volcano.gif">
+
+
