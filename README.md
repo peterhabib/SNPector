@@ -1,7 +1,8 @@
 # SNPector
-According to uncovering of genetic roots of many disease, the need of tool to investigate the DNA of patient to find out what kinds of varients are located in and how it could controbute in the disease. DiseaseCatcher (DC) is a python software combine between different other software could detect variants in given sequence and illustrate to which diseas those variants are contribute
-
-
+According to uncovering of genetic roots of many disease, the need of tool to investigate the DNA of patient to find out what
+kinds of varients are located in and how it could controbute in the disease. DiseaseCatcher (DC) is a python software combine
+between different other software could detect variants in given sequence and illustrate to which diseas those variants are
+contribute
 
 
 
