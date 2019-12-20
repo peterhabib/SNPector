@@ -39,7 +39,7 @@ https://zenodo.org/record/3569790#.Xf1FLnUzZnw
 
 
 # How To Use
-[Usage](https://raw.githubusercontent.com/peterhabib/SNPector/master/Updated_Figure(2).jpg)
+# python3 scan_dna.py -blaston -modesearch -circoson -networkon -download -vis GivenSequence.fasta 
 <img src="https://raw.githubusercontent.com/peterhabib/SNPector/master/Updated_Figure(2).jpg">
 **A)** Python3 compiler; 
 **B)** scan_dna.py: program main script that contain all functions; 
