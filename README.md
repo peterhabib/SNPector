@@ -6,12 +6,6 @@ contribute
 
 
 
-
--Open the directory where scan_dna.py located
-
--Open terminal in current DC directory
-
-
 # Downloading required data and software
 -Download Humen Genome: wget ftp://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh38_latest/refseq_identifiers/GRCh38_latest_genomic.fna.gz
 -Download NCBI BLAST: wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.9.0+-x64-linux.tar.gz
